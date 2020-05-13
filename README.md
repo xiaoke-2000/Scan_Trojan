@@ -250,10 +250,10 @@ if __name__ == '__main__':
 ```
 ### **四、运行结果**
 #### 1.扫描启动文件夹
-![Alt text](./1589356499811.png)
+![image](https://github.com/xiaoke-2000/img/blob/master/1589356499811.png)
 
 **当在尝试运行过程中，直接将qq链接文件拉入，则会开始如下图所示出现异常**：
-![image](https://github.com/AngelSXD/sxd_first_repository/blob/master/images/20160615165142.png)
+
 
 ------
 #### 2.扫描注册表
