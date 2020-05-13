@@ -253,21 +253,21 @@ if __name__ == '__main__':
 ![image](https://github.com/xiaoke-2000/img/blob/master/1589356499811.png)
 
 **当在尝试运行过程中，直接将qq链接文件拉入，则会开始如下图所示出现异常**：
-
+![image](https://github.com/xiaoke-2000/img/blob/master/1589356608850.png)
 
 ------
 #### 2.扫描注册表
-![Alt text](./1589356699235.png)
+![image](https://github.com/xiaoke-2000/img/blob/master/1589356699235.png)
 
 **当出现为未经允许新的注册子项，将会报异常信息**。
 
 ------
 #### 3.扫描服务列表
-![Alt text](./1589356846275.png)
+![image](https://github.com/xiaoke-2000/img/blob/master/1589356846275.png)
 
 ------
 #### 4.扫描开放端口占用进程
-![Alt text](./1589356925064.png)
+![image](https://github.com/xiaoke-2000/img/blob/master/1589356925064.png)
 
 **当出现为不常见的进程号占用端口，将会提醒异常信息**。
 
